@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bd86c80-1b83-4a7d-891b-a65c47a1964a": {
+      "ProjectGuid": "4bd86c80-1b83-4a7d-891b-a65c47a1964a",
+      "DisplayName": "Adapter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
